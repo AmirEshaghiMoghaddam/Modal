@@ -219,6 +219,7 @@ Modal
   visibility: hidden;
   z-index: -10;
 }
+/* this class open and close modal */
 /* OPEN/CLOSE MODAL */
 .open-modal {
   visibility: visible;
